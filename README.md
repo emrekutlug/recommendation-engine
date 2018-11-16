@@ -71,7 +71,7 @@ Sign up for [IBM Watson Studio](https://dataplatform.ibm.com). By creating a pro
 * Select the `From URL` tab.
 * Enter a name for the notebook.
 * Optionally, enter a description for the notebook.
-* Enter this Notebook URL: https://raw.githubusercontent.com/IBM/product-recommendation-with-watson-ml/master/notebooks/wml-product-recommendation-engine.ipynb
+* Enter this Notebook URL: https://github.com/emrekutlug/recommendation-engine/blob/master/notebooks/wml-product-recommendation-engine.ipynb
 * Make sure you select the Spark service you associated with the project as your runtime.
 * Click the `Create` button.
 
