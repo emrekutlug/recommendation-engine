@@ -1,4 +1,4 @@
-# Build a product recommendation engine with Watson Machine Learning and PixieApps
+# Build a product recommendation engine with Watson Machine Learning
 
 In this code pattern historical shopping data is used to build a recommendation engine with Spark and Watson Machine Learning. The model is then used in an interactive PixieApp in which a shopping basket is simulated and used to create a list of recommendations.
 
